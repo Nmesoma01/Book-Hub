@@ -23,7 +23,7 @@ const HomePage: React.FC = () => {
   return (
     <Container>
       <Typography variant="h2" gutterBottom>
-        Book List
+        Book Hub
       </Typography>
       <BookList books={books} />
     </Container>
